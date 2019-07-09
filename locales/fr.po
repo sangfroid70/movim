@@ -171,7 +171,7 @@ msgstr "Veuillez entrer un mot de passe valide (6 caractères minimum)"
 
 #: [account]password_not_same
 msgid "The provided passwords are not the same"
-msgstr "Les mot de passes renseignés ne sont pas identiques"
+msgstr "Les mots de passe renseignés ne sont pas identiques"
 
 #: [account]delete
 msgid "Delete your account"
@@ -187,7 +187,7 @@ msgstr "Entrez votre identifiant complet"
 
 #: [account]delete_text_error
 msgid "Please provide a valid username."
-msgstr "Veuillez entre un identifiant valide."
+msgstr "Veuillez entrer un identifiant valide."
 
 #: [account]gateway_title
 msgid "Gateways"
